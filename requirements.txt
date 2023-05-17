@@ -6,6 +6,5 @@ Django==4.1.2
 psycopg2-binary==2.9.5
 python-decouple==3.6
 redis==4.3.4
-chatterbot==1.0.4
 django-tailwind==3.4.0
 PyYAML==6.0
