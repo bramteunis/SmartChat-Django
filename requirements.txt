@@ -8,3 +8,4 @@ python-decouple==3.6
 redis==4.3.4
 django-tailwind==3.4.0
 PyYAML==6.0
+requests==2.30.0

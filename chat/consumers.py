@@ -3,7 +3,7 @@ import json
 from asgiref.sync import async_to_sync
 from channels.generic.websocket import WebsocketConsumer
 
-from .tasks import get_response
+#from .tasks import get_response
 import sys
 sys.path.append("c:/users/skikk/appdata/local/programs/python/python39/lib/site-packages")
 import requests
